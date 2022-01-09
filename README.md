@@ -10,3 +10,8 @@ tictactoe game in C++ (with a minimax based AI)
 
 * compile and run (single player with AI): `make run`
 * compile and run (two player): `make run-2p`
+
+## further work
+- [] alpha-beta pruning
+- [] non-fatalistic AI
+- [] GUI using SDL2
