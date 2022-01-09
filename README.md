@@ -13,6 +13,6 @@ tictactoe game in C++ (with a minimax based AI)
 
 ## further work
 
-- [] alpha-beta pruning
-- [] non-fatalistic AI
-- [] GUI using SDL2
+- [ ] alpha-beta pruning
+- [ ] non-fatalistic AI
+- [ ] GUI using SDL2
